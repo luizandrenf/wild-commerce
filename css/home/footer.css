@@ -1,0 +1,17 @@
+.footer{
+  background-color: var(--color-12);
+}
+.footer p {
+  max-width: 1200px;
+  padding: 40px 20px 40px 20px;
+  margin: 0 auto;
+  color: var(--color-0);
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+}
+
+@media(max-width: 600px) {
+  .footer p {
+    font-size: .875rem;
+  }
+}
