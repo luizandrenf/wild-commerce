@@ -5,7 +5,9 @@
 @import './utilities/colors.css';
 @import './utilities/typography.css';
 
+/* Components */
+@import './components/header.css';
+@import './components/footer.css';
+
 /* Home */
-@import './home/header.css';
 @import './home/introduction.css';
-@import './home/footer.css';
